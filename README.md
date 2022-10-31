@@ -1,0 +1,1 @@
+[![Board Status](https://dev.azure.com/RexenHolding/8c6ca20b-30c0-4754-80c3-da005b6bc0a9/4e1ec0f5-cd5d-48ae-bcb6-b8785daff0df/_apis/work/boardbadge/0d505493-1966-463f-9acc-a3e911fd0efb)](https://dev.azure.com/RexenHolding/8c6ca20b-30c0-4754-80c3-da005b6bc0a9/_boards/board/t/4e1ec0f5-cd5d-48ae-bcb6-b8785daff0df/Microsoft.RequirementCategory)
